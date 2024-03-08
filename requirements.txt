@@ -12,4 +12,4 @@ pandas>=0.19
 Cython>= 0.28.5
 
 mapping
-collections
+collection
