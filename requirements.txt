@@ -11,3 +11,4 @@ matplotlib>=1.4.3
 pandas>=0.19
 Cython>= 0.28.5
 collection
+collections2
